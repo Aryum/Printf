@@ -57,3 +57,5 @@ Link the library when compiling:
 ```bash
 gcc your_program.c -I./ft_printf -L./ft_printf -lftprintf -o your_program
 ```
+
+*This project was done as part of the 42 curriculum.*
